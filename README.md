@@ -7,7 +7,7 @@
 
 Skills<br>
 ![Static Badge](https://img.shields.io/badge/Java-0A4D68)
-![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Springboot-%236DB33F?logo=spring&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/SpringSecurity-%236DB33F?logo=springsecurity&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/QueryDsl-4D3C77)
 ![Static Badge](https://img.shields.io/badge/JPA-99A98F)<br>
